@@ -1,8 +1,8 @@
-# Olá! Eu sou o Rafael 👋
+# Olá! Eu sou o Rafael Gomes
 
 ## Quem sou eu?
 
-Sou **Rafael**, tenho **16 anos** e atualmente estou no **ensino médio**, cursando o técnico em **Desenvolvimento de Sistemas** no **Senai**. Com um grande interesse por tecnologia e inovação, busco sempre aprender e me desenvolver no mundo da programação e da computação.
+Sou **Rafael**, tenho **17 anos** e atualmente estou no **ensino médio**, cursando o técnico em **Desenvolvimento de Sistemas** no **Senai**. Com um grande interesse por tecnologia e inovação, busco sempre aprender e me desenvolver no mundo da programação e da computação.
 
 Atualmente, estou explorando as áreas de **lógica de programação**, **algoritmos**, **levantamento de requisitos**, **arquitetura de redes** e **sistemas operacionais**. Cada novo conceito que aprendo me inspira a continuar minha jornada, me tornando mais apaixonado por essa área tão dinâmica.
 
@@ -27,7 +27,8 @@ Algumas das minhas principais qualidades incluem:
 
 Se você deseja conversar mais sobre tecnologia, projetos ou apenas trocar ideias, estou à disposição! Você pode me encontrar também nas redes sociais:
 
-- **Instagram**: [@Drac0.kkz](https://www.instagram.com/Drac0.kkz)  
+- **Instagram**: [@Drac0.kkz](https://www.instagram.com/Drac0.kkz)
+- **Email**: Rafaelgds020309@gmail.com.br
 - **Telefone**: +55 16 99286-0701
 
 ## O que estou buscando
